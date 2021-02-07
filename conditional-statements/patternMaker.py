@@ -1,8 +1,9 @@
-# Ameer Al-Shamaa
-
 sign = "*"
-print(sign)
 
-for updatedSign in sign:
-    print(updatedSign)
-    updatedSign += ""
+while len(sign) < 5:
+    print(sign)
+    sign += '*'
+
+while len(sign) >= 1:
+    print(sign)
+    sign = sign[:-1]
