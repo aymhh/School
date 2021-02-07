@@ -4,7 +4,7 @@ if (method.lower() == "a"):
     value = input("What's the value you want to convert to?\n")      
     updatedValue = int(value)
     x = round((updatedValue - 32) * 5/9, 2)
-    print("The answer is: " + str(x) + "\n") 
+    print(f"{value} fahrenhiet -> {x} celsius") 
 
 if (method.lower() == "b"):
     value = input("What's the value you want to convert to?\n")
