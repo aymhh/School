@@ -6,4 +6,4 @@ result = number1 + number2
 
 print("Calculating...")
 time.sleep(1)
-print("The answer is \n" +number1 + number2)
+print("The answer is: \n" +number1 + number2)

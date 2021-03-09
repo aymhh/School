@@ -5,5 +5,6 @@ while len(sign) < 5:
     sign += '*'
 
 while len(sign) >= 1:
+    sign = sign[:-1]    
     print(sign)
-    sign = sign[:-1]
+

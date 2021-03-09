@@ -1,0 +1,5 @@
+<root>
+    <parent>
+        <child age="17" location="middle"> Ameer </child>
+    </parent> 
+</root>
