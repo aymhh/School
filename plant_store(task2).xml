@@ -2,7 +2,7 @@
     <plant>
         <commonName>Bloodroot</commonName>
         <botanicalName>Sanguinaria Canadensis</botanicalName>
-        <zone>Sanguinaria Canadensis</zone>
+        <zone description="Eastern North America">Zone 4</zone>
         <light>Mostly Shady</light>
         <price>2.44</price>
     </plant>
